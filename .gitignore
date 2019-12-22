@@ -1,0 +1,10 @@
+**/.vs
+**/obj
+**/bin
+**/build
+**/packages
+**/x64
+**/Debug
+**/TestResults
+**/*.user
+**/*.filters
